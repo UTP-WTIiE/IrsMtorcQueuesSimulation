@@ -1,0 +1,14 @@
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.csproj.AssemblyReference.cache
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.AssemblyInfo.cs
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.exe
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.deps.json
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.runtimeconfig.json
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.dll
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\bin\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.pdb
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.dll
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.pdb
+C:\Users\Praca\source\repos\IrsMtorcQueuesSimulation\IrsMtorcQueuesSimulation\obj\Debug\netcoreapp3.1\IrsMtorcQueuesSimulation.genruntimeconfig.cache
